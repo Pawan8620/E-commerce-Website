@@ -1,6 +1,3 @@
-Got it! Here's the updated README template:
-
----
 
 # Cara E-Commerce Website
 
